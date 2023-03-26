@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author fabin
+ *
+ */
+module clinica {
+}
